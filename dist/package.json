@@ -1,0 +1,19 @@
+{
+  "name": "bili-player",
+  "private": false,
+  "version": "0.0.3",
+  "description": "一个模拟B站播放器的视频组件",
+  "main": "bili-player.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bili",
+    "bilibili",
+    "bili-player",
+    "bilibili-player",
+    "player"
+  ],
+  "author": "dongadong",
+  "license": "ISC"
+}
